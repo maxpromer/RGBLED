@@ -1,4 +1,4 @@
-# RGBLED
+# iRGBLED
 
 ปลั๊กอินเสริมใช้งาน WS2812B กับ KidBright32 V1.5  / OpenKB
 
